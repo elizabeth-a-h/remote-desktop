@@ -1,6 +1,7 @@
-# remote-desktop
-Set up a Remote Desktop to connect to an Azure Virtual Machine
-<h1>Remote Desktop Set Up Set Up</h1>
+<h1>Remote Desktop Set Up</h1>
+<p>
+<img src="https://i.imgur.com/igOysLa.png" height="20%" width="20%" alt="Microsoft Remote Desktop"/>
+</p>
 This tutorial outlines the set up for Microsoft Desktop to connect to an Azure Virtual Machine. <br />
 
 
