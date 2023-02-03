@@ -2,12 +2,8 @@
 <p>
 <img src="https://i.imgur.com/igOysLa.png" height="20%" width="20%" alt="Microsoft Remote Desktop"/>
 </p>
-This tutorial outlines the set up for Microsoft Desktop to connect to an Azure Virtual Machine. <br />
+This tutorial outlines the set up for Microsoft Remote Desktop to connect to an Azure Virtual Machine. <br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
